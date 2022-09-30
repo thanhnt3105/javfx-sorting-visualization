@@ -1,7 +1,5 @@
 # Visual Sorting Algorithms
 
-![HeapSortDemo](https://raw.githubusercontent.com/chriszq/VisualSortingAlgorithms/assets/HeapSort_demo.gif "Heap Sort Demo")
-
 Sorting algoritms animated using JavaFX. The actual sorting speed is not necessarily correlated with how long it takes to animate the algorithm, for example sometimes it could show numbers being swapped one by one or it could show a group of numbers moving simultaneously.
 
 ## Available algorithms
